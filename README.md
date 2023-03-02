@@ -20,7 +20,7 @@ Not available at this time.
 Projects will move from simple projects to move advanced as the course progresses.
 
 **License Information**
-No information needed at this time.
+Code for PacMan Challenge provided by MIT xPro.
 
 **Project List**
 1.  My First Website
