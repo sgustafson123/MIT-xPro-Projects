@@ -20,8 +20,8 @@ Not available at this time.
 Projects will move from simple projects to move advanced as the course progresses.
 
 **License Information**
-Code for PacMan Challenge provided by MIT xPro.
+Photo in KittenRescue HTML project courtesy of TinyKittens FaceBook page.  Copyright TinyKittens. 
 
 **Project List**
 1.  My First Website
-2.  PacMan Challenge
+2.  TBD
